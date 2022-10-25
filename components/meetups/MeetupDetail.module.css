@@ -1,0 +1,9 @@
+/* ძალიან საინტერესოა რომ რეალურად აქ ცვენ ვიყენებთ css module ს რაც ნიშავს იმას რომ ფაქტობრივად გაგვეხსნა ახალი feature css.modules in next.js */
+
+.detail {
+  text-align: center;
+}
+
+.detail img {
+  width: 100%;
+}
